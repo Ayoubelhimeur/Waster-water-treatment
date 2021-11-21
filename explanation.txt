@@ -1,0 +1,8 @@
+We have two tanks, the first one with N1A representing the low level and N2A representing the high level and it is the same case for the second one except with the levels N1B and N2B.
+PHA & PHB are analog inputs for PH measurement.
+MA & MB are mixers.
+P is a pump.
+NB1C1 & NB1C2 & NB1C3 are the first low levels that trigger alarm 1.
+NB2C1 & NB2C2 & NB2C3 are the second low levels that trigger alarm 2.
+AL1 & AL2 are alarms.
+V1 V2 V3 V4 are valves.
