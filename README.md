@@ -1,2 +1,2 @@
-# Waster-water-treatment
-Automation of wast water treatment station
+# Wasterwater-treatment
+Automation of a waste water treatment station
